@@ -6,7 +6,10 @@
 ---
 
 ## 🌟 About Me
+<div align="center">
   <img src="https://github.com/user-attachments/assets/1318ceeb-1ea4-41cf-823a-86964778974c" width="400px"/>
+</div>
+
 ✨ 中学生チーム **Uni School** のリーダー兼 動画編集担当  
 🎬 学校行事や紹介動画を企画〜撮影〜編集まで担当  
 🚀 プログラム×映像の新しい表現を模索中  
