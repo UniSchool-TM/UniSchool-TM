@@ -27,18 +27,6 @@
 
 ---
 
-## 📸 Works / Media
-
-<p align="center">
-  <!-- ここに Issue にアップした画像リンクを貼る -->
-  <img src="https://user-images.githubusercontent.com/USERNAME/ISSUEID/your_uploaded_image.png" width="400px"/>
-</p>
-
-> ※ 画像リンクは「GitHubリポジトリ → Issue に画像をドラッグ&ドロップ → 自動生成されるURL」をコピーして差し込んでください。  
-> 例：`https://user-images.githubusercontent.com/.../your_uploaded_image.png`
-
----
-
 ## 📫 Contact
 <p align="center">
   <a href="https://github.com/USERNAME">
