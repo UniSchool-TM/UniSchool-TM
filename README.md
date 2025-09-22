@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1318ceeb-1ea4-41cf-823a-86964778974c" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/1318ceeb-1ea4-41cf-823a-86964778974c" width="100%"/>
 </div>
 
 ✨ 中学生チーム **Uni School** のリーダー兼 動画編集担当  
