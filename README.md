@@ -47,5 +47,5 @@
   <!-- 自作の小さなGIFを追加したい場合 -->
   <img src="https://user-images.githubusercontent.com/USERNAME/ISSUEID/your_animation.gif" width="200px"/>
   <br/>
-  <sub>※ Uni School ロゴやオープニング映像をGIF化して載せると個性UP！</sub>
+  <sub>ty f0r watching!!</sub>
 </div>
