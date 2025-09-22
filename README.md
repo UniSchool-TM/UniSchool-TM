@@ -20,29 +20,22 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=radical&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)  
-
-</div>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🎯 Vision
 - 🌍 学校外の活動にも挑戦  
 - 🎬 動画とプログラムを融合した作品制作  
 - 🤝 チームでの継続的なプロジェクト展開  
+
+---
+
+## 📸 Works / Media
+
+<p align="center">
+  <!-- ここに Issue にアップした画像リンクを貼る -->
+  <img src="https://user-images.githubusercontent.com/USERNAME/ISSUEID/your_uploaded_image.png" width="400px"/>
+</p>
+
+> ※ 画像リンクは「GitHubリポジトリ → Issue に画像をドラッグ&ドロップ → 自動生成されるURL」をコピーして差し込んでください。  
+> 例：`https://user-images.githubusercontent.com/.../your_uploaded_image.png`
 
 ---
 
@@ -59,7 +52,8 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/animation.gif" width="200px"/>
+  <!-- 自作の小さなGIFを追加したい場合 -->
+  <img src="https://user-images.githubusercontent.com/USERNAME/ISSUEID/your_animation.gif" width="200px"/>
   <br/>
-  <sub>※ ↑ここにオリジナルの小さなGIFアニメやロゴアニメを置くとさらに個性が出ます！</sub>
+  <sub>※ Uni School ロゴやオープニング映像をGIF化して載せると個性UP！</sub>
 </div>
