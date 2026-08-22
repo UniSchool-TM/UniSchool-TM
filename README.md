@@ -8,10 +8,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=00C9A7)](https://unischool-tm.github.io/portfolio/)
-[![UniSchool](https://img.shields.io/badge/UNISCHOOL-000000?style=for-the-badge&logo=googleclassroom&logoColor=00C9A7)](https://unischool.jp/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/unischool_tm/)
-[![Gmail](https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ebinotenmusu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&amp;logo=safari&amp;logoColor=00C9A7)](https://unischool-tm.github.io/portfolio/)
+[![UniSchool](https://img.shields.io/badge/UNISCHOOL-000000?style=for-the-badge&amp;logo=googleclassroom&amp;logoColor=00C9A7)](https://unischool.jp/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F)](https://www.instagram.com/unischool_tm/)
+[![Gmail](https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335)](mailto:ebinotenmusu@gmail.com)
 
 </div>
 
@@ -97,7 +97,7 @@ YouTube・Instagramの制作案件を受注。アカウント運用ではなく�
 
 映像制作・SNS案件のご相談はこちらから
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2CE0C1?style=for-the-badge&logo=vercel&logoColor=black)](https://unischool-tm.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2CE0C1?style=for-the-badge&amp;logo=vercel&amp;logoColor=black)](https://unischool-tm.github.io/portfolio/)
 
 <br/>
 
