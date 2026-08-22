@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:00C9A7&amp;height=220&amp;section=header&amp;text=TM&amp;fontSize=90&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Video%20Editor%20%2F%20Content%20Creator&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%"/>
-
 <a href="https://unischool-tm.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=22&amp;duration=3200&amp;pause=900&amp;color=2CE0C1&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%E9%AB%98%E6%A0%A11%E5%B9%B4%E7%94%9F+%2F+%E6%98%A0%E5%83%8F%E7%B7%A8%E9%9B%86%E8%80%85;UniSchool+%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC+%2F+%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E6%8B%85%E5%BD%93;%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E3%80%81%E6%98%A0%E5%83%8F%E3%81%A8SNS%E3%81%A7%E3%81%8B%E3%81%9F%E3%81%A1%E3%81%AB%E3%80%82" alt="Typing SVG" />
+  <img src="./assets/header-anim.svg" width="100%" alt="TM - Video Editor and Content Creator" />
 </a>
 
 <br/>
@@ -101,8 +99,6 @@ YouTube・Instagramの制作案件を受注。アカウント運用ではなく�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9A7,50:2C5364,100:0F2027&amp;height=100&amp;section=footer" width="100%"/>
-
-<sub>© 2026 TM. All rights reserved.</sub>
+<img src="./assets/footer-anim.svg" width="100%" alt="footer" />
 
 </div>
