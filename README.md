@@ -118,7 +118,7 @@ YouTube・Instagramの制作案件を受注。アカウント運用ではなく�
 ### `>_` Tools
 
 
-<img src="https://skillicons.dev/icons?i=premiere,photoshop,canva&amp;theme=dark" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=premiere,photoshop,canva&amp;theme=dark" height="55"/>
 
 
 </div>
