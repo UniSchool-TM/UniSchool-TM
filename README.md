@@ -118,7 +118,10 @@ YouTube・Instagramの制作案件を受注。アカウント運用ではなく�
 ### `>_` Tools
 
 
-<img src="https://skillicons.dev/icons?i=premiere,photoshop,canva&amp;theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=premiere,photoshop&amp;theme=dark" height="55"/>
+
+
+[![Canva Pro](https://img.shields.io/badge/Canva_Pro-000000?style=for-the-badge&amp;logo=canva&amp;logoColor=00C4CC)](https://www.canva.com/pro/)
 
 
 </div>
